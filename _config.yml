@@ -4,11 +4,11 @@
 baseurl: 
 url: 
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: jackwang226
+subtitle: "jackwang225"
+description: "jackwang 的个人博客"
+keywords: jack, wang, jackwang226
+timezone: Asia/Chengdu
 encoding: "utf-8"
 repository: jackwang226/jackwang226.github.io
 # 对 css 和 js 资源的 cdn 加速配置
